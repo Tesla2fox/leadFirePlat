@@ -1,0 +1,60 @@
+<?xml version="2.0" ?>
+<time>
+    <!--1.3 hour:16-->
+</time>
+<attackedPnt>
+    <!--the attcaked pnt-->
+    <Vert x="75" y="75" />
+</attackedPnt>
+<workSpace>
+    <!--the work space -->
+    <Vert x="0" y="0" />
+    <Vert x="320" y="0" />
+    <Vert x="320" y="180" />
+    <Vert x="0" y="180" />
+    <Vert x="0" y="0" />
+</workSpace>
+<TargetPnt>
+    <!--the vector of the target pnt-->
+    <Vert x="200" y="100" />
+    <Vert x="100" y="20" />
+    <Vert x="100" y="120" />
+    <Vert x="50" y="75" />
+</TargetPnt>
+<ScoutCar>
+    <!--the vector of the Scout Car-->
+    <Vert x="15" y="15" edge="10" ori="0" />
+    <Vert x="250" y="50" edge="15" ori="3.14159" />
+    <Vert x="150" y="125" edge="8" ori="1.5708" />
+</ScoutCar>
+<Ring>
+    <!--the vector of the ob ring-->
+    <Vert id="0" x="21.5927" y="148.718" />
+    <Vert id="0" x="23.9791" y="97.1726" />
+    <Vert id="0" x="97.4786" y="102.423" />
+    <Vert id="0" x="79.581" y="149.434" />
+    <Vert id="0" x="21.5927" y="148.718" />
+    <Vert id="1" x="153.319" y="82.1386" />
+    <Vert id="1" x="132.081" y="0.764098" />
+    <Vert id="1" x="215.842" y="8.87769" />
+    <Vert id="1" x="219.183" y="31.3094" />
+    <Vert id="1" x="180.762" y="85.4795" />
+    <Vert id="1" x="153.319" y="82.1386" />
+    <Vert id="2" x="228.489" y="148.002" />
+    <Vert id="2" x="232.307" y="64.4796" />
+    <Vert id="2" x="277.887" y="65.6728" />
+    <Vert id="2" x="293.875" y="93.8317" />
+    <Vert id="2" x="263.33" y="156.831" />
+    <Vert id="2" x="228.489" y="148.002" />
+    <Vert id="3" x="108.456" y="168.525" />
+    <Vert id="3" x="112.99" y="142.036" />
+    <Vert id="3" x="191.739" y="141.797" />
+    <Vert id="3" x="195.796" y="168.525" />
+    <Vert id="3" x="108.456" y="168.525" />
+    <Vert id="4" x="36.6267" y="36.0821" />
+    <Vert id="4" x="52.6153" y="11.264" />
+    <Vert id="4" x="122.774" y="14.8436" />
+    <Vert id="4" x="130.888" y="51.832" />
+    <Vert id="4" x="130.888" y="51.832" />
+    <Vert id="4" x="36.6267" y="36.0821" />
+</Ring>
